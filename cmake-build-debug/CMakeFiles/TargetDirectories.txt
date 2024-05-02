@@ -1,0 +1,3 @@
+D:/Estructuras2/HospitalBinario/cmake-build-debug/CMakeFiles/HospitalBinario.dir
+D:/Estructuras2/HospitalBinario/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Estructuras2/HospitalBinario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
